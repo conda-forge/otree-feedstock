@@ -1,5 +1,5 @@
 context:
-  version: "0.6.3"
+  version: "0.6.4"
 
 package:
   name: otree
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/fioncat/otree/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 047fa4a4575d703a1bf76625b49c9291c22b8877347b4ec722a365b4aca51f8b
+  sha256: eba6aefe43b3f3b3412e7c3545d88018dc6cbe35bc0824f6f5eff91ac44d4fc7
 
 build:
   number: 0
